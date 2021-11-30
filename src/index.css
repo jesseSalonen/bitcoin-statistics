@@ -1,19 +1,19 @@
 body {
     font: 20px "Century Gothic", Futura, sans-serif;
     margin: 20px;
-    background: #5CDB95;
+    background: rgb(19, 22, 31);
 }
 
 h1 {
-    color: #EDF5E1
+    color: #FFF;
 }
 
 .box {
-    background: #05386B;
+    background: rgb(255, 149, 0);
     border-radius: 30px;
     padding: 30px;
     margin: 20px;
-    color: #EDF5E1
+    color: #FFF
 }
 
 .box_startDate {
@@ -44,24 +44,24 @@ h1 {
 }
 
 .lower_box {
-    background: #05386B;
+    background: rgb(255, 149, 0);
     border-radius: 30px;
     padding: 30px;
     margin: 20px;
-    color: #EDF5E1
+    color: #FFF;
 }
 
 .statistics {
     display: flex;
     flex-direction: row;
-    background: #05386B;
+    background: rgb(255, 149, 0);
     padding: 2px;
     margin: 20px;
-    color: #EDF5E1
+    color: #FFF
 }
 
 .statistics_box {
-    background: #282b2e;
+    background: rgb(9, 12, 20);
     border-radius: 30px;
     padding: 20px;
     margin: 5px;
